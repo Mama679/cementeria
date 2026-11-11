@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37827.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cementera", "Cementera\Cementera.csproj", "{0D090BDA-6180-4130-829C-7F1135A73627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{998E5D9E-5A3C-496F-B79A-E0C741277E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D090BDA-6180-4130-829C-7F1135A73627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D090BDA-6180-4130-829C-7F1135A73627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D090BDA-6180-4130-829C-7F1135A73627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D090BDA-6180-4130-829C-7F1135A73627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998E5D9E-5A3C-496F-B79A-E0C741277E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998E5D9E-5A3C-496F-B79A-E0C741277E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998E5D9E-5A3C-496F-B79A-E0C741277E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998E5D9E-5A3C-496F-B79A-E0C741277E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169BEB00-CB3D-4D3B-8DE8-F73172076AE1}
+	EndGlobalSection
+EndGlobal

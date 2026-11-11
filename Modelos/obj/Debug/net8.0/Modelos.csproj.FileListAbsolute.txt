@@ -1,0 +1,14 @@
+D:\proyectoNET\Cementera\Cementera\Modelos\bin\Debug\net8.0\Modelos.deps.json
+D:\proyectoNET\Cementera\Cementera\Modelos\bin\Debug\net8.0\Modelos.runtimeconfig.json
+D:\proyectoNET\Cementera\Cementera\Modelos\bin\Debug\net8.0\Modelos.dll
+D:\proyectoNET\Cementera\Cementera\Modelos\bin\Debug\net8.0\Modelos.pdb
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.csproj.AssemblyReference.cache
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.AssemblyInfoInputs.cache
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.AssemblyInfo.cs
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.csproj.CoreCompileInputs.cache
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.dll
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\refint\Modelos.dll
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.pdb
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.genruntimeconfig.cache
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\ref\Modelos.dll
