@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\proyectoNET\\Cementera\\Cementera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|d:\\proyectonet\\cementera\\cementera\\cementera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|solutionrelative:cementera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|d:\\proyectonet\\cementera\\cementera\\cementera\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|solutionrelative:cementera\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|d:\\proyectonet\\cementera\\cementera\\cementera\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|solutionrelative:cementera\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|d:\\proyectonet\\cementera\\cementera\\cementera\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|solutionrelative:cementera\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{998E5D9E-5A3C-496F-B79A-E0C741277E74}|Modelos\\Modelos.csproj|d:\\proyectonet\\cementera\\cementera\\modelos\\tipoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{998E5D9E-5A3C-496F-B79A-E0C741277E74}|Modelos\\Modelos.csproj|solutionrelative:modelos\\tipoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|d:\\proyectonet\\cementera\\cementera\\cementera\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|solutionrelative:cementera\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|d:\\proyectonet\\cementera\\cementera\\cementera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D090BDA-6180-4130-829C-7F1135A73627}|Cementera\\Cementera.csproj|solutionrelative:cementera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,49 +42,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Views\\Categoria\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Cementera\\Views\\Categoria\\Crear.cshtml",
+              "ToolTip": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Views\\Categoria\\Crear.cshtml",
+              "RelativeToolTip": "Cementera\\Views\\Categoria\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T14:55:43.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Views\\Categoria\\Index.cshtml",
               "RelativeDocumentMoniker": "Cementera\\Views\\Categoria\\Index.cshtml",
               "ToolTip": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Views\\Categoria\\Index.cshtml",
               "RelativeToolTip": "Cementera\\Views\\Categoria\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-10T23:20:23.258Z"
+              "WhenOpened": "2026-11-10T23:20:23.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "Cementera\\Controllers\\CategoriaController.cs",
               "ToolTip": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "Cementera\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T23:19:12.107Z"
+              "WhenOpened": "2026-11-10T23:19:12.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TipoAplicacion.cs",
-              "DocumentMoniker": "D:\\proyectoNET\\Cementera\\Cementera\\Modelos\\TipoAplicacion.cs",
-              "RelativeDocumentMoniker": "Modelos\\TipoAplicacion.cs",
-              "ToolTip": "D:\\proyectoNET\\Cementera\\Cementera\\Modelos\\TipoAplicacion.cs",
-              "RelativeToolTip": "Modelos\\TipoAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T22:48:35.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Program.cs",
               "RelativeDocumentMoniker": "Cementera\\Program.cs",
               "ToolTip": "D:\\proyectoNET\\Cementera\\Cementera\\Cementera\\Program.cs",
               "RelativeToolTip": "Cementera\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T22:28:31.572Z",
               "EditorCaption": ""

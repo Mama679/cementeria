@@ -9,12 +9,26 @@ namespace Cementera.Controllers
 
         public CategoriaController(CementeraDBContext db)
         {
-           _db = db;
+            _db = db;
         }
         public IActionResult Index()
         {
             IEnumerable<Categoria> categorias = _db.Categoria;
             return View(categorias);
+        }
+
+        public IActionResult Crear()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Crear(Categoria categoria)
+        {
+            _db.Categoria.Add(categoria);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }
