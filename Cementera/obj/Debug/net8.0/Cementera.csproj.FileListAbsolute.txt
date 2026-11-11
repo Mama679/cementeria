@@ -170,3 +170,4 @@ D:\proyectoNET\Cementera\Cementera\Cementera\bin\Debug\net8.0\ru\Microsoft.CodeA
 D:\proyectoNET\Cementera\Cementera\Cementera\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\proyectoNET\Cementera\Cementera\Cementera\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\proyectoNET\Cementera\Cementera\Cementera\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\proyectoNET\Cementera\Cementera\Cementera\obj\Debug\net8.0\Cementera.sourcelink.json

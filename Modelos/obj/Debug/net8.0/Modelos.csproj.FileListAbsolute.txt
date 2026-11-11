@@ -12,3 +12,4 @@ D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\refint\Modelos.dll
 D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.pdb
 D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.genruntimeconfig.cache
 D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\ref\Modelos.dll
+D:\proyectoNET\Cementera\Cementera\Modelos\obj\Debug\net8.0\Modelos.sourcelink.json
