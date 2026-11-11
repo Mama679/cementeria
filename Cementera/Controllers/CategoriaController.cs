@@ -26,6 +26,7 @@ namespace Cementera.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Crear(Categoria categoria)
         {
+            categoria.Estado = true;
             _db.Categoria.Add(categoria);
             _db.SaveChanges();
             return RedirectToAction("Index");

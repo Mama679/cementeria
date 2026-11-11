@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cementera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ef804dc266560b46ddb4c1dadf840e5bded104f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b15f1b6617babc3bc7bad228ffd0bc2f5a9ec578")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cementera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cementera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
